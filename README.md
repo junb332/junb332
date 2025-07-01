@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header)
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=##Hithere👋)
+
 
 <!--
 **junb332/junb332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
