@@ -28,15 +28,11 @@
   
 
   ### Framework
-  <!--Spring-->
-  <img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
-  <!--node.js-->
-  <img src="https://img.shields.io/badge/nodedotjs-#5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
