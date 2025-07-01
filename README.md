@@ -41,12 +41,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
   <br/>
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junb)](https://github.com/junb332/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junb)](https://github.com/junb332/github-readme-stats)
-  
+
 </div>
 
 <!--
