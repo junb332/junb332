@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=random&height=300&section=header&text=Hi%20there%20👋%20)
+![header](https://capsule-render.vercel.app/api?type=blur&color=random&height=300&section=header&text=Hi%20there%20👋%20&fontcolor=000000)
 
 
 <!--
