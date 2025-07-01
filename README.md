@@ -36,7 +36,7 @@
   
   ### ETC
   <!--node.js-->
-  <img src="https://img.shields.io/badge/Node.js-#5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodedotjs-#5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
